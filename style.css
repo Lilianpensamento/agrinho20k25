@@ -5,12 +5,12 @@ body{
 }
 
 :root { --cor-principal: #000000;
-    --cor-secundaria: #a0093b;
+    --cor-secundaria: #053f0d;
     --cor-destaque: #2b94fc;
 }
 
 body {
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Arial", sans-serif;
   }
 
   h1,
