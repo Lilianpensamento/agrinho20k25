@@ -6,6 +6,12 @@ body{
 body {
   font-size: 20px;
 }
+.conteudo {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
 :root { --cor-principal: #000000;
     --cor-secundaria: #070439;
