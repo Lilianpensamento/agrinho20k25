@@ -3,6 +3,9 @@
 body{
     background-color: #94f970ef;
 }
+body {
+  font-size: 18px;
+}
 
 :root { --cor-principal: #000000;
     --cor-secundaria: #070439;
